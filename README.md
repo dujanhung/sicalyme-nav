@@ -34,13 +34,13 @@ viewers could go to every files, via clicking on links.
 
 <table><tr><td>
 
-<b><a href="https://github.com/dujanhung/sicalyme/blob/main/navigation/documentation_navigation.md">documentation</a></b>
+<b><a href="https://github.com/dujanhung/sicalyme-documentation/blob/main/README.md">documentation</a></b>
 
 </td></tr></table>
 
 <table><tr><td>
 
-<b><a href="https://github.com/dujanhung/sicalyme/blob/main/navigation/install_navigation.md">install</a></b>
+<b><a href="https://github.com/dujanhung/sicalyme-documentation/blob/main/install/nav.md">install</a></b>
 
 </td></tr></table>
 
